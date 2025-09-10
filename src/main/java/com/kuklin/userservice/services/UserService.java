@@ -1,12 +1,12 @@
-package com.kuklin.user_service.services;
+package com.kuklin.userservice.services;
 
-import com.kuklin.user_service.entities.User;
-import com.kuklin.user_service.models.BalanceSubtractRequest;
-import com.kuklin.user_service.models.UserDto;
-import com.kuklin.user_service.models.UserMapper;
-import com.kuklin.user_service.repositories.UserRepository;
-import com.kuklin.user_service.sharedlibrary.exceptions.ErrorResponseException;
-import com.kuklin.user_service.sharedlibrary.exceptions.ErrorStatus;
+import com.kuklin.userservice.entities.User;
+import com.kuklin.userservice.models.BalanceSubtractRequest;
+import com.kuklin.userservice.models.UserDto;
+import com.kuklin.userservice.models.UserMapper;
+import com.kuklin.userservice.repositories.UserRepository;
+import com.kuklin.userservice.sharedlibrary.exceptions.ErrorResponseException;
+import com.kuklin.userservice.sharedlibrary.exceptions.ErrorStatus;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;

@@ -1,4 +1,4 @@
-package com.kuklin.user_service.sharedlibrary.exceptions;
+package com.kuklin.userservice.sharedlibrary.exceptions;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

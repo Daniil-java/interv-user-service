@@ -1,4 +1,4 @@
-package com.kuklin.user_service.models;
+package com.kuklin.userservice.models;
 
 import lombok.Data;
 import lombok.experimental.Accessors;

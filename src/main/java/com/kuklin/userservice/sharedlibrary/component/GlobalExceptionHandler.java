@@ -1,7 +1,7 @@
-package com.kuklin.user_service.sharedlibrary.component;
+package com.kuklin.userservice.sharedlibrary.component;
 
-import com.kuklin.user_service.sharedlibrary.exceptions.ErrorResponse;
-import com.kuklin.user_service.sharedlibrary.exceptions.ErrorResponseException;
+import com.kuklin.userservice.sharedlibrary.exceptions.ErrorResponse;
+import com.kuklin.userservice.sharedlibrary.exceptions.ErrorResponseException;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatusCode;

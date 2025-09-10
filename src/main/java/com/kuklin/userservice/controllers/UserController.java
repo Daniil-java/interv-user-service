@@ -1,8 +1,8 @@
-package com.kuklin.user_service.controllers;
+package com.kuklin.userservice.controllers;
 
-import com.kuklin.user_service.models.BalanceSubtractRequest;
-import com.kuklin.user_service.models.UserDto;
-import com.kuklin.user_service.services.UserService;
+import com.kuklin.userservice.models.BalanceSubtractRequest;
+import com.kuklin.userservice.models.UserDto;
+import com.kuklin.userservice.services.UserService;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.*;

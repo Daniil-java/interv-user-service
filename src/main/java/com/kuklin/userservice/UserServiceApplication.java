@@ -1,4 +1,4 @@
-package com.kuklin.user_service;
+package com.kuklin.userservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

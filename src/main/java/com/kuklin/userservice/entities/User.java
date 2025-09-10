@@ -1,4 +1,4 @@
-package com.kuklin.user_service.entities;
+package com.kuklin.userservice.entities;
 
 import jakarta.persistence.*;
 import lombok.Data;

@@ -1,4 +1,4 @@
-package com.kuklin.user_service;
+package com.kuklin.userservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
