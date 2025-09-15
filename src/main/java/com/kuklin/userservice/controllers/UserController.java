@@ -1,14 +1,14 @@
 package com.kuklin.userservice.controllers;
 
-import com.kuklin.userservice.models.BalanceSubtractRequest;
-import com.kuklin.userservice.models.UserDto;
+import com.kuklin.sharedlibrary.BalanceSubtractRequest;
+import com.kuklin.sharedlibrary.UserDto;
 import com.kuklin.userservice.services.UserService;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.*;
 
 @RestController
-@RequestMapping("/api/v1/users/")
+@RequestMapping
 @RequiredArgsConstructor
 @Slf4j
 public class UserController {

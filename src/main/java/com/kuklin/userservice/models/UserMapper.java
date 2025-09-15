@@ -1,5 +1,6 @@
 package com.kuklin.userservice.models;
 
+import com.kuklin.sharedlibrary.UserDto;
 import com.kuklin.userservice.entities.User;
 import org.mapstruct.Mapper;
 
